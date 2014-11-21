@@ -68,7 +68,7 @@ table {
 
 header{
 	width: 100%;
-	background-color: #2d8632;
+	background-color: #2a7e43;
 }
 
 header span{
@@ -126,7 +126,7 @@ section{
 
 section h1,h2,h3{
 	margin-bottom: 2%;
-	color: #2a7e43;
+	color: #2d8632;
 	font-weight: bold;
 }
 
@@ -158,7 +158,7 @@ section h3{
 footer{
 	background-color:#2a7e43; 
 	height: 7em;
-	margin-bottom: 2%;
+	margin-bottom: 5px!important;
 	font-size: 1.250em;
 	padding: 2em;
 }
