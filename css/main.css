@@ -215,6 +215,10 @@ footer a:hover{
 			margin-left: 4em;
 			font-size: 1.250em;
 		}
+
+		footer span{
+			font-size: 0.900em;
+		}
 	}
 
 @media only screen and (max-width: 655px) {
@@ -228,6 +232,10 @@ footer a:hover{
 
 		header span{
 			margin-left: 2em;
+		}
+
+		footer ul li i{
+			font-size: 1.5em;
 		}
 	}
 
@@ -272,6 +280,10 @@ footer a:hover{
 			top: 2.2em;
 			font-size: 1.150em;
 		}
+
+		footer span{
+			font-size: 0.850em;
+		}
 	}
 
 @media only screen and (max-width: 535px) {
@@ -279,6 +291,14 @@ footer a:hover{
 		header span{
 			top: 2.2em;
 			margin-left: 2em;
+		}
+
+		footer span{
+			font-size: 0.800em;
+		}
+
+		footer div{
+			font-size: 1em;
 		}
 	}
 
@@ -291,6 +311,22 @@ footer a:hover{
 
 		header span{
 			top: 2em;
+		}
+
+		section h1{
+			font-size: 1.000em;
+		}
+
+		section h2{
+			font-size: 0.800em;
+		}
+
+		section h3{
+			font-size: 0.750em;
+		}
+
+		section p{
+			font-size: 0.800em;
 		}
 	}
 
@@ -314,6 +350,19 @@ footer a:hover{
 			padding-bottom: 0.2em;
 			font-size: 0.900em;
 		}
+
+		footer span{
+			margin-left: 2em;
+			text-align: center;
+		}
+
+		footer div{
+			position: relative;
+			top: 1.5em;
+			margin-bottom: 5px;
+			right: 5em;
+			
+		}
 	}
 
 
@@ -329,6 +378,14 @@ footer a:hover{
 		}
 	}
 
+@media only screen and (max-width: 465px) {
+
+		footer div ul{
+			position: relative;
+			left: 10px;
+		}
+	}
+
 @media only screen and (max-width: 450px) {
 
 		span.right{
@@ -336,10 +393,27 @@ footer a:hover{
 		}
 	}
 
+@media only screen and (max-width: 449px){
+
+	footer span{
+		font-size: 0.700em;
+	}
+
+	
+}
+
 @media only screen and (max-width: 435px) {
 
 		span.right{
 			margin-left: 18em;
+		}
+	}
+
+@media only screen and (max-width: 433px) {
+
+		footer div{
+			position: relative;
+			left: -90px;
 		}
 	}
 
@@ -381,5 +455,3 @@ footer a:hover{
 			font-size: 0.700em;
 		}
 	}
-
-
